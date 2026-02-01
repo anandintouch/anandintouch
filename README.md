@@ -35,5 +35,6 @@ Based in Fremont, CA. Let's collaborate on innovative tech!
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anandintouch.work@gmail.com)
 
-Fun fact: Exploring AI in fintech or hiking the Bay! 🌉
+## Fun fact:
+When free then explore/learn AI responsibly to build something to make life easier and exploring AI in Fintech OR hiking the Bay :) ! 🌉
 
